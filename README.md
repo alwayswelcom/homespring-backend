@@ -31,7 +31,7 @@
 ```bash
 $ npm install
 ```
-
+Next, create the .env.local file with `NEXT_PUBLIC_HOST=http://localhost:8080`.[`create env file`](https://github.com/Bloggify/obj2env-cli)
 ## Running the app
 
 ```bash
