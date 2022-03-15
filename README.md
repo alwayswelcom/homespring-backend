@@ -31,7 +31,7 @@
 ```bash
 $ npm install
 ```
-Next, create the .env file with `GOOGLE_API=https://www.googleapis.com/books/v1`.[`create env file`](https://github.com/Bloggify/obj2env-cli)
+Next, create the .env file write  `GOOGLE_API=https://www.googleapis.com/books/v1`.[`create env file`](https://github.com/Bloggify/obj2env-cli)
 ## Running the app
 
 ```bash
